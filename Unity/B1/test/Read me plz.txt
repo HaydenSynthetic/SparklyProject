@@ -1,0 +1,18 @@
+Hello there friend!
+
+Thanks for checking out the test build.
+
+How to control:
+leftclick where you want to walk
+Or hold leftclick and Jordan will follow your mouse
+Tab toggles inventory
+Escape toggles pause screen
+
+wasd does nothing.
+
+leftclick to interact
+
+To play the game run SparklyProject.exe
+
+
+And data miners, plz no leaky leaky.
