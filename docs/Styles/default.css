@@ -1,0 +1,74 @@
+body 
+{
+    background-color: #212121;
+    text-align: center;
+}
+h1{
+    color: lightcyan; 
+
+}
+p
+{
+    color: lightcyan; 
+
+}
+i
+{
+    color: lightgrey; 
+
+}
+blockquote 
+{
+    background: #3c3c3c;
+
+    border-left: 5px solid rgb(8, 4, 22);
+    margin: 1.5em 0px;
+    padding: 0.5em 10px;
+}
+blockquote p 
+{
+    color: whitesmoke; 
+
+    display: inline;
+}
+hr{
+    border: 3px solid #343434;
+}
+
+::-webkit-scrollbar {
+width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: #161616;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #424242;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #4f4f4f; 
+}
+/* unvisited link */
+a:link {
+    color: lightpink;
+}
+
+/* visited link */
+a:visited {
+    color: lightpink;
+}
+
+/* mouse over link */
+a:hover {
+    color: lightcyan;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
